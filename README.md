@@ -7,3 +7,5 @@ In this example you can see this deployed where you are able to get a password g
 
 Here the user is able to create their own password through various characters and legnth. 
 
+Users will be able to have their passwords flex with what they want depending on the website. 
+
