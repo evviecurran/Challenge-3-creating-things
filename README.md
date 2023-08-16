@@ -13,3 +13,4 @@ LEARNED FROM THIS PROJECT I was able to understand how to make a password genera
 
 
 <img width="1470" alt="Screen Shot 2023-08-13 at 8 31 29 PM" src="https://github.com/evviecurran/Challenge-3-creating-things/assets/125322606/c7832104-d0fd-4a28-8785-ba36ba82c07f">
+[Untitled_ Aug 15, 2023 7_52 PM.webm](https://github.com/evviecurran/Challenge-3-creating-things/assets/125322606/444013c5-4f4e-43bc-8200-21af1c4dbb2d)
